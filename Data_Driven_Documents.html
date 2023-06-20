@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<body>
+<svg width="960" height="500"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<body>
+<div id="circle"></div>
+// Declaring the script type
+<script type="text/javascript">
+// Creating a variable to store SVG attributes
+var myGraphic = d3.select("#circle")
+// applying the svg
+.append("svg")
+// initializing the width of the object
+.attr("width", 500)
+// initializing the height of the object
+.attr("height", 500);
+myGraphic.append("circle")
+// Outline color attribute set to blue
+.style("stroke", "blue")
+// Fill color attribute set to red
+.style("fill", "red")
+// Radius attribute set to 100
+.attr("r", 100)
+// X-coordinate set to 300px
+.attr("cx", 300)
+// Y-coordinate set to 100px
+.attr("cy", 100)
+// applying action when the mouse pointer hovers over the circle
+.on("mouseover", function(){d3.select(this).style("fill",
+"lavender");})
+.on("mouseout", function(){d3. select(this).style("fill", "red");});
+</script>
+</body>
+</html>
