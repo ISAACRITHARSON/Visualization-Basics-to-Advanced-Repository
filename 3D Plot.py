@@ -2,7 +2,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
-xs = [1,2,3,4,5,6,7,8,9,10]
+xs = [1,2,3,4,5,6,7,8,9,10/
 ys = [5,6,2,3,13,4,1,2,4,8]
 zs = [2,3,3,3,5,7,9,11,9,10]
 xt = [-1,-2,-3,-4,-5,-6,-7,8,-9,-10]
