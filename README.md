@@ -1,9 +1,6 @@
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/170532159/original/f80f496e2287e6e5dc104852b62feaa66982caaf/im-really-good-at-web-programming.jpg"/>
 
 # Visualization-Basics-to-Advanced-Repository
-
-<img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" height="500" width="500"/>
-
 Welcome to my Visualization Journey repository, where I am thrilled to share my extensive knowledge and practical experience to guide you through the captivating realm of data visualization. Together, we will embark on an exciting adventure, unraveling the art and science of creating impactful visual representations of data. Join me as I lead you through the significant milestones I've achieved and the invaluable insights I've gained in the world of visualization.
 
 # Visual Foundations: Mastering Data Representation
@@ -11,6 +8,7 @@ In this section, we will dive into the fundamental principles of data visualizat
 
 # Unveiling Insights: Advanced Visualization Techniques
 Building upon your visual foundations, we will delve into advanced techniques for extracting profound insights from complex datasets. I will guide you through essential visualization methods, including interactive visualizations, heatmaps, network graphs, 3D plots, and geospatial mapping. Through hands-on exercises and real-world examples, you will gain a deep understanding of these techniques and their practical applications in various domains.
+<img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" height="500" width="500"/>
 
 # Visualization with Python Libraries: Bringing Data to Life
 Python offers a versatile ecosystem of visualization libraries that empower you to create stunning visualizations. In this section, we will explore the power of libraries like Matplotlib, Seaborn, Plotly, and Bokeh. You will learn how to create a wide range of visualizations, including line plots, scatter plots, bar charts, area charts, heatmaps, and animated graphs. By mastering these tools, you will be able to transform raw data into captivating visual narratives.
