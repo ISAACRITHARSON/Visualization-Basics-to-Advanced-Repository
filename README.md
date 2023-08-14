@@ -29,7 +29,6 @@ Bokeh
 D3.js (for advanced users)
 IDE and Tools
 Optional: Jupyter Notebook, Visual Studio Code
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="330" width="530"/>
 Connect with Me
 I'm eager to hear about your learning journey. What were your key takeaways? What challenges did you encounter along the way? Reach out to me at [isaacritharson@karunya.edu.in] to share your experiences and insights.
 
