@@ -11,7 +11,7 @@ font-family: Arial, Helvetica, sans-serif;
 
 .rect:hover { opacity: 0.5; }
 </style>
-</head
+</head>
 <body>
 <div style="text-align: center;">
 <h1>D3.Js Barchart</h1>
