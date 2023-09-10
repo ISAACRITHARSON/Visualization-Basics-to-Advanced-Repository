@@ -9,7 +9,7 @@ body {
 font-family: Arial, Helvetica, sans-serif;
 }
 
-.rect:hover { opacity: 0.5; }
+.rect:hover { opacity: 0.5; 
 </style>
 </head>
 <body>
